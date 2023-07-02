@@ -2,10 +2,10 @@
 ***
 ## OKR
 ### Objetivo 🎯:
-Aumentar el uso de la aplicacion por parte de los usuarios en MelodyMix y generar medidas de fidelidad para conservar a aquellos usuarios nuevos.
+Mejorar y consolidar la posicion de MelodyMix como una herramienta lider en la creacion de musica digital.
 ### Resultados clave 🏆:
-* **Key Result (KR1)**: aumentar el numero promedio de listas de reproducción creadas por usuario en un 30% durante el primer trimestre.
-* **Key Result (KR2)**: incrementar el tiempo promedio de sesión de los usuarios en un 20% en el segundo trimestre.
-* **Key Result (KR3)**: aumentar el numero de usuarios activos mensuales en un 15% al final del año.
-* **Key Result (KR4)**: obtener un puntaje promedio de satisfacción del usuario de al menos 4.5 sobre 5 a traves de encuestas de satisfacción trimestrales.
+* **Key Result (KR1)**: aumentar la retencion de usuarios en un 25% en los primeros 30 días.
+* **Key Result (KR2)**: expandir la biblioteca de sonidos con al menos 500 nuevas muestras y pistas musicales.
+* **Key Result (KR3)**: mejorar el rendimiento y la estabilidad de la aplicación.
+* **Key Result (KR4)**: Incrementar la visibilidad y la adopción de MelodyMix en las redes sociales y plataformas de música.
 ### Matriz de priorización 🧠:
